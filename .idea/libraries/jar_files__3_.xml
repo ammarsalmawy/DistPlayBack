@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jar_files (3)">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/jar_files (3).zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

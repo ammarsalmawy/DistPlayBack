@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx-base-22-ea+16-linux">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/swing/javafx-base-22-ea+16-linux.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/swing/javafx-graphics-22-ea+16-linux.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/swing/javafx-swing-22-ea+16-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
