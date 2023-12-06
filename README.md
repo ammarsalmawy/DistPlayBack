@@ -11,7 +11,7 @@ The Client is the user interface that communicates with the server to interact w
 ## how to use 
 1. **Compile Code:**
 
--Navigate to the [server](./server) and [client](./client) directories separately.
+-Navigate to the __[server](./server)__ and __[client](./client)__ directories separately.
 -Execute "javac *.java" in each directory to compile the Java code
 
 2.**Run RMI Registry:**
